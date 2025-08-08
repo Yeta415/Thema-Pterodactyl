@@ -7,7 +7,7 @@
 ## Command Install :
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/SankaVollereii/Thema-Pterodactyl/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/Yeta415/Thema-Pterodactyl/main/install.sh)
 ```
 
 ## Fitur Tools :
